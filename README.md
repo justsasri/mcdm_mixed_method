@@ -1,2 +1,1 @@
-# TOPSIS Normalization
-Studi Komparasi Metode Normalisasi Topsis dengan Pendekatan Rank Similarity Index
+# Kombinasi Metode MCDM (Topsis dan Vikor)
